@@ -6,7 +6,7 @@ Started at [MUTEK AI Art lab, March 2020](https://mutek.org/en/news/mutek-ai-art
 
 ## demo
 
-![demo of the program as a command line game](./uncoupdedes.mp4)
+![demo of the program as a command line game](./uncoupdedes.gif)
 
 ## about the project
 
