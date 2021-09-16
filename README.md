@@ -4,6 +4,10 @@ a short command line game in python, based on the Turing test.
 
 Started at [MUTEK AI Art lab, March 2020](https://mutek.org/en/news/mutek-ai-art-lab).
 
+## demo
+
+![demo of the program as a command line game](./uncoupdedes.mp4)
+
 ## about the project
 
 You can [look at the .pdf for the presentation slides](https://github.com/finartcialist/uncoupdedes/blob/master/uncoupdedes.pdf).
