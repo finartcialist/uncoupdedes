@@ -2,11 +2,11 @@
 
 a short command line game in python, based on the Turing test.
 
-Started at MUTEK AI Art lab, March 2020.
+Started at [MUTEK AI Art lab, March 2020](https://mutek.org/en/news/mutek-ai-art-lab).
 
 ## about the project
 
-You can look at the .pdf for the presentation slides.
+You can [look at the .pdf for the presentation slides](https://github.com/finartcialist/uncoupdedes/blob/master/uncoupdedes.pdf).
 
 This small project is an adventure into the world of randomness, as seen by humans and by machines.
 
@@ -22,6 +22,7 @@ A second human then tries to find the human-created serie amongst the two series
 Are humans the better machines ?
 
 ## about the artist
-Edith Viau is an artist based in Montréal (Qc) interested in digital arts, algorithms, programming, mathematics and finance. She is the founder of the ARTificial (artificial.st) project and of finartcialist, a finance-meets-arts project. 
+
+Edith Viau is an artist based in Montréal (Qc) interested in digital arts, algorithms, programming, mathematics and finance. She is the founder of the ARTificial (artificial.st) project and of finartcialist, a finance-meets-arts project.
 
 
